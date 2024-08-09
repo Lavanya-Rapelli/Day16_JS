@@ -16,3 +16,5 @@ function average(A){
 }
 
 average([10, 15, 20, 25])
+
+
